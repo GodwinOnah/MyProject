@@ -1,0 +1,57 @@
+com/example/digitalrestaurant/data/model/LoggedInUser.java
+ com.example.digitalrestaurant.data.model.LoggedInUser
+com/example/digitalrestaurant/data/LoginDataSource.java
+ com.example.digitalrestaurant.data.LoginDataSource
+com/example/digitalrestaurant/data/Result.java
+ com.example.digitalrestaurant.data.Result
+ com.example.digitalrestaurant.data.Result$1
+ com.example.digitalrestaurant.data.Result$Error
+ com.example.digitalrestaurant.data.Result$Success
+com/example/digitalrestaurant/data/LoginRepository.java
+ com.example.digitalrestaurant.data.LoginRepository
+com/example/digitalrestaurant/BuildConfig.java
+ com.example.digitalrestaurant.BuildConfig
+com/example/digitalrestaurant/databinding/ActivityIntroPageBinding.java
+ com.example.digitalrestaurant.databinding.ActivityIntroPageBinding
+com/example/digitalrestaurant/databinding/ActivityPageOneBinding.java
+ com.example.digitalrestaurant.databinding.ActivityPageOneBinding
+com/example/digitalrestaurant/Customer.java
+ com.example.digitalrestaurant.Customer
+ com.example.digitalrestaurant.Customer$1
+ com.example.digitalrestaurant.Customer$2
+com/example/digitalrestaurant/databinding/ActivityCustomerPageBinding.java
+ com.example.digitalrestaurant.databinding.ActivityCustomerPageBinding
+com/example/digitalrestaurant/databinding/ItemsDisplayBinding.java
+ com.example.digitalrestaurant.databinding.ItemsDisplayBinding
+com/example/digitalrestaurant/databinding/ActivitySignupPageBinding.java
+ com.example.digitalrestaurant.databinding.ActivitySignupPageBinding
+com/example/digitalrestaurant/FoodSeller.java
+ com.example.digitalrestaurant.FoodSeller
+ com.example.digitalrestaurant.FoodSeller$1
+ com.example.digitalrestaurant.FoodSeller$2
+com/example/digitalrestaurant/SignupPage.java
+ com.example.digitalrestaurant.SignupPage
+com/example/digitalrestaurant/databinding/ActivityMainBinding.java
+ com.example.digitalrestaurant.databinding.ActivityMainBinding
+com/example/digitalrestaurant/SellerUploadPage.java
+ com.example.digitalrestaurant.SellerUploadPage
+com/example/digitalrestaurant/databinding/ActivityLoginBinding.java
+ com.example.digitalrestaurant.databinding.ActivityLoginBinding
+com/example/digitalrestaurant/databinding/ActivityFoodSellerBinding.java
+ com.example.digitalrestaurant.databinding.ActivityFoodSellerBinding
+com/example/digitalrestaurant/databinding/ActivitySellerUploadPageBinding.java
+ com.example.digitalrestaurant.databinding.ActivitySellerUploadPageBinding
+com/example/digitalrestaurant/IntroPage.java
+ com.example.digitalrestaurant.IntroPage
+ com.example.digitalrestaurant.IntroPage$1
+ com.example.digitalrestaurant.IntroPage$2
+com/example/digitalrestaurant/LoginPage.java
+ com.example.digitalrestaurant.LoginPage
+ com.example.digitalrestaurant.LoginPage$1
+com/example/digitalrestaurant/Adaptor/GodwinAdaptor.java
+ com.example.digitalrestaurant.Adaptor.GodwinAdaptor
+ com.example.digitalrestaurant.Adaptor.GodwinAdaptor$GodwinViewHolder
+com/example/digitalrestaurant/UserData/ItemData.java
+ com.example.digitalrestaurant.UserData.ItemData
+com/example/digitalrestaurant/PageOne.java
+ com.example.digitalrestaurant.PageOne
